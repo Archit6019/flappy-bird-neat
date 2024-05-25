@@ -8,7 +8,7 @@ To install and run this project, follow these steps:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/flappy-bird-neat.git
+git clone https://github.com/Archit6019/flappy-bird-neat.git
 cd flappy-bird-neat
 ```
 
